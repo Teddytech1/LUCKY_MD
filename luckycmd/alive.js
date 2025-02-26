@@ -39,7 +39,7 @@ const date = moment().format('DD/MM/YYYY');
 *Mode* : ${mode}
 *Date* : ${date}
 *Hours(GMT)* : ${temps}
-*From* : Tanzania
+*From* : Kenya
 *Bot* : ${s.bot} 
 *Forks* : ${forks} 
 
@@ -91,7 +91,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre('  Lucky Md Is A Live 24hrs Enjoy To Use All Time🤗. ')
+repondre('  Lucky Md Is A Live 24hrs Enjoy To Use All Time Deployed By Teddy-Tech 🤗. ')
 
 }
     });
