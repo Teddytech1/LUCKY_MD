@@ -34,21 +34,21 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
 let infoMsg =  `
-━━━━❍ *FREDIE TECH INFO* ❍━━━━
+━━━━❍ *TEDDY TECH INFO* ❍━━━━
 ╭──━━━━━━━━━━━━━━━━━━━❍ 
 │
-│  _*Support channel by follow*_ ;https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f
-│  _*Join Our WhatsApp group*_ ;https://chat.whatsapp.com/HdrwMccSFIaB5Zi7s9BzN9
-│  _*WhatsApp Contact As*_ ;Https://wa.me/255752593977 
+│  _*Support channel by follow*_ ;https://whatsapp.com/channel/0029Vb0SjSz4dTnPptjdAq3S
+│  _*Join Our WhatsApp group*_ ;https://whatsapp.com/channel/0029Vb0SjSz4dTnPptjdAq3S
+│  _*WhatsApp Contact As*_ ;Https://wa.me/254717108463 
 │  _*WhatsApp Bot Fork And Star*_ ;https://github.com/Fred1e/LUCKY_MD
-│  _*Telegram Group*_ ;https://t.me/+u3zlb5y6OfxhOTdk
-│  _*Telegram Channel*_ ;https://t.me/FredieTech_BusinessPlace
-│  _*Telegram Bot*_ ;Https://t.me/@fredidurry_bot
-│  _*Telegram Contact As*_ ; t.me/freditech 
-│  _*Instagram*_ ;https://www.instagram.com/fredi.simba.tz
+│  _*Telegram Group*_ ;https://t.me/Free_net_zone
+│  _*Telegram Channel*_ ;https://t.me/Teddy_md
+│  _*Telegram Bot*_ ;Https://t.me/@Anonymouskebot
+│  _*Telegram Contact As*_ ; t.me/Freevpnkebot 
+│  _*Instagram*_ ;https://www.instagram.com/Kibet_fx_
 │  _*Facebook*_ ;https://www.facebook.com/profile.php?id=61553209932337
-│  _*YouTube Channel Subscribe For Tutorial*_ ;https://www.youtube.com/@freeonlinetvT1
-│  _*Follow My Github For About Info*_ ;https://github.com/Fred1e
+│  _*YouTube Channel Subscribe For Tutorial*_ ;https://www.youtube.com
+│  _*Follow My Github For About Info*_ ;https://github.com/Teddytech1 
 │
 ╰──━━━━━━━━━━━━━━━━━━━❍ 
 ╭──━━━━━━━━━━━━━━━──➳❍ 
